@@ -1,4 +1,5 @@
 # C.T.Co
 JAVA school task
 
-Run 
+To run the program, download and run Calculator.jar file. 
+The program is self explanatory. 
